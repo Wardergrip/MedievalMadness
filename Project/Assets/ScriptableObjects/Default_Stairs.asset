@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dca8bbc1fd192da4ca6c96e38ba5c282, type: 3}
+  m_Name: Default_Stairs
+  m_EditorClassIdentifier: 
+  spawnableObjects:
+  - Prefab: {fileID: 7061505696900282925, guid: 3688c85b2ed85334585d26b4cafd8483, type: 3}
+    Weight: 0.5
+  - Prefab: {fileID: 2620467180490303303, guid: c4f339bb84d8b4c4098cb9d70075235a, type: 3}
+    Weight: 1
+  - Prefab: {fileID: 5434323380521315868, guid: e53066b64e3bb244883d613ae9af02e5, type: 3}
+    Weight: 1
+  - Prefab: {fileID: 5571234374048461243, guid: 7555f74fc72d92b40b28be88c42ae4a5, type: 3}
+    Weight: 1

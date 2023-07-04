@@ -1,0 +1,22 @@
+Explanation on how to use shader graphs
+
+First step is to create a material, by right clicking on Assets > Create > Material.
+
+Second and final step is to go into inspector which should be on the right side of the screen and then under the shader name at the top. Press the small arrow to pull down the shader list and from there type in your selected shader such as
+'Toon'.
+
+With these steps done you should be able to use the shaders inputs such as putting on images or changing the colours.
+
+Explanation on how to use skybox shaders
+
+First step is to do the above steps by placing the skybox shader onto the chosen material and then the next part is to open the lighting tab inside unity by going up top to Window > Rendering > Lighting.
+
+The final step is to then go from Scene to Environment, dragging the skybox material you have made onto the slot called Skybox Material. After this the skybox should load in and be visible by the camera.
+
+If the skybox is not visible, make sure the camera is checked to see the skybox. Do this by selecting the camera and then going down to
+Environment, checking the background type says Skybox.
+
+
+
+All models used are made by me, CANNIBALC10WN within Blender
+All materials used are made by me, CANNIBALC10WN in Paint.net

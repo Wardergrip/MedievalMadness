@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4eeae28214a070c4a972d58533bc6c8a, type: 3}
+  m_Name: Footsteps Dirt
+  m_EditorClassIdentifier: 
+  _audioClips:
+  - {fileID: 8300000, guid: 626c199147a42104fb7665c4cfb34781, type: 3}
+  - {fileID: 8300000, guid: ef9baeae6c922ac45ab2042cf5706c2d, type: 3}
+  - {fileID: 8300000, guid: 4cdf0e06d51d74a4ab520e4addf03027, type: 3}
+  maxVolume: 0.5
+  minVolume: 0.5
+  maxPitch: 1.2
+  minPitch: 0.8
+  _mixer: {fileID: -8257946349751634242, guid: 03abd393d4287fc4193644a899967b64, type: 2}

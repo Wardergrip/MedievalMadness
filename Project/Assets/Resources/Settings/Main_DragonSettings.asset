@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 797491885fda42e4398d2e90a446070b, type: 3}
+  m_Name: Main_DragonSettings
+  m_EditorClassIdentifier: 
+  FireBomb: {fileID: 6616949281194904558, guid: d8ba1273a3846f84581481e6a0a6329c, type: 3}
+  DragonSpawnRadius: 15
+  DragonWarningMovementSpeed: 30
+  DragonHazardMovementSpeed: 15
+  StepsToReachMax: 10
+  MinSpewingFrequency: 0.3
+  MaxSpewingFrequency: 0.3
+  ThrowFireBombs: 0
+  ScaleSizeWithSteps: 0
+  StartUpTimer: 15
+  MinEventTimer: 15
+  MaxEventTimer: 30

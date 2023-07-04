@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7679dd499c9420e4daae2e9b8ab52179
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _hazardSettings: {fileID: 11400000, guid: 134282a710411ba44897b1d96f9c3c1c, type: 2}
+  - _playerSettings: {fileID: 11400000, guid: a0eed095aa023324d8639e5fac07fbc1, type: 2}
+  - _rumbleSettings: {fileID: 11400000, guid: 7c21f54adc8e7f94d80e3f30aa1389a4, type: 2}
+  - _smashHealthSettings: {fileID: 11400000, guid: 684fd49cf78d63b4587ca8eb0d44a50d, type: 2}
+  - _spawnAreaSettings: {fileID: 11400000, guid: 3876bdbb2913f7545b165018b65b6890, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

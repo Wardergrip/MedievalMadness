@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4eeae28214a070c4a972d58533bc6c8a, type: 3}
+  m_Name: Grunts
+  m_EditorClassIdentifier: 
+  _audioClips:
+  - {fileID: 8300000, guid: 132954f5601d3614b98c684d3920bd0e, type: 3}
+  - {fileID: 8300000, guid: 7c7a53503ceb12b4cb96ac0fb82b15aa, type: 3}
+  - {fileID: 8300000, guid: 096151e5ca70ce941834d6953690b4f7, type: 3}
+  - {fileID: 8300000, guid: 9aade1c5782de6040b9b5e4dceb372f4, type: 3}
+  - {fileID: 8300000, guid: d4a0a3e1b26038844ada5bbe866cb098, type: 3}
+  - {fileID: 8300000, guid: dfd1493ea89ea5a41a5344a6242ae158, type: 3}
+  - {fileID: 8300000, guid: d7dbedfd3ac7ca749ba6fd21d6219b0d, type: 3}
+  - {fileID: 8300000, guid: 8a5cfb08d8aa5f742ab223cdb159866d, type: 3}
+  maxVolume: 1
+  minVolume: 1
+  maxPitch: 1.2
+  minPitch: 0.9
+  _mixer: {fileID: 0}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01d8cc13f6d0aa9428b7d2c7a6ec869d, type: 3}
+  m_Name: WeaponExclusiveGameRound
+  m_EditorClassIdentifier: 
+  RoundName: OneHandedAxe only!
+  Description: I hope you are a jack of all trades!
+  PlatformSpawnList: {fileID: 0}
+  StairsSpawnList: {fileID: 0}
+  FieldSpawnList: {fileID: 0}
+  HazardSettings: {fileID: 11400000, guid: 134282a710411ba44897b1d96f9c3c1c, type: 2}
+  PlayerSettings: {fileID: 11400000, guid: a0eed095aa023324d8639e5fac07fbc1, type: 2}
+  SmashHealthSettings: {fileID: 11400000, guid: 684fd49cf78d63b4587ca8eb0d44a50d, type: 2}
+  SpawnAreaSettings: {fileID: 11400000, guid: 3876bdbb2913f7545b165018b65b6890, type: 2}
+  DragonSettings: {fileID: 11400000, guid: 44b997c158d6a784ab4b17e528136bbe, type: 2}
+  _weapons: {fileID: 11400000, guid: e33364efa2b0a804a901a417cc98180d, type: 2}

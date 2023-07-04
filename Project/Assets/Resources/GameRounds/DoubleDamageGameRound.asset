@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f3b7ea662cd8d648955a53335e22a4b, type: 3}
+  m_Name: DoubleDamageGameRound
+  m_EditorClassIdentifier: 
+  RoundName: Double damage!
+  Description: Whuaaat??!!
+  PlatformSpawnList: {fileID: 11400000, guid: f7630df55b749cd4483ff6a7cfbb83f9, type: 2}
+  StairsSpawnList: {fileID: 11400000, guid: 4d4bd547f04abef408de6688d32504a2, type: 2}
+  FieldSpawnList: {fileID: 11400000, guid: 2028f064b62a57547a79b0790e97509c, type: 2}
+  HazardSettings: {fileID: 11400000, guid: 134282a710411ba44897b1d96f9c3c1c, type: 2}
+  PlayerSettings: {fileID: 11400000, guid: a0eed095aa023324d8639e5fac07fbc1, type: 2}
+  SmashHealthSettings: {fileID: 11400000, guid: a20d7eb8ca5eef848978f3c1b964f8ce, type: 2}
+  SpawnAreaSettings: {fileID: 11400000, guid: 3876bdbb2913f7545b165018b65b6890, type: 2}
+  DragonSettings: {fileID: 11400000, guid: 44b997c158d6a784ab4b17e528136bbe, type: 2}
