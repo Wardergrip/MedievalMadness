@@ -73,4 +73,4 @@ The HUD is rather basic. The main things that I enjoyed about making of the HUD 
 
 Here I want to write the things I learned. A main cliche that I often thought wouldn't be a mistake I would make is making a whole lot of things global. There are so much singletons that there is a singleton to group the singletons. In some cases, the only thing the singleton does is handle events and delegate functions. In some cases, I think a static part of a class would be a really clean way to reduce the singletons and keep a thing to its class. 
 Another thing I want to think more about is the overall game loop. Finishing the game loop at the end of production is stressful and very error prone to say the least. I think that in my next project I will try to make the game loop first and see how that works out.
-Last, but definitely not least, I learned the beauty of observers and wish to utilise them more without gettint too obnoxious.
+Last, but definitely not least, I learned the beauty of observers and wish to utilise them more without getting too obnoxious.
